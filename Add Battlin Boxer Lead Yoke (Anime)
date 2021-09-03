@@ -1,5 +1,4 @@
-Link to Yugipedia : https://yugipedia.com/wiki/Battlin%27_Boxer_Lead_Yoke_(anime)
-Script text 
+
 --BK 拘束蛮兵リードブロー
 
 function c120000037.initial_effect(c)
